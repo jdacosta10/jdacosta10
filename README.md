@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me engdacosta@hotmail.com
 - 😄 Pronouns: Mr,Joaquim
-- ⚡ Fun fact: Cybersecurity Consultant
+- ⚡ Fun fact: Cybersecurty Project
 
 <!---
 jdacosta10/jdacosta10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
